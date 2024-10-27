@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IshikAggarwal
 - 👀 I’m interested in ...coding and designing
-- 🌱 I’m currently learning ...c language 
+- 🌱 I’m currently learning ...c++ language 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...on my Instagram @featishika
 - 😄 Pronouns: ...she/her
